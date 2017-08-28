@@ -1,6 +1,8 @@
 int main (){
 	int x = 4;
 	int y = 6;
+	int res = 0;
 
 	String segundoCommit = " ";
+	res = x+y;
 }
