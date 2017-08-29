@@ -5,6 +5,4 @@ int main (){
 
 	String segundoCommit = " ";
 	res = x+y;
-	asdasdasd;
-
 }
