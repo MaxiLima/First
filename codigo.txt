@@ -6,3 +6,7 @@ int main (){
 	String segundoCommit = " ";
 	res = x+y;
 }
+
+void calcular(int a){
+	asdasda;
+}
