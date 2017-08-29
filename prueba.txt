@@ -1,0 +1,1 @@
+"echo frase > archivo crea el archivo con lo que diga la frase" 

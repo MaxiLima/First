@@ -1,0 +1,2 @@
+copy con nombre.txt me deja escribir en cmd y lo guarda en el archivo que yo le pase
+termino la escritura del archivo con ctrl+z
