@@ -5,6 +5,10 @@ int main (){
 
 	String segundoCommit = " ";
 	res = x+y;
+	
+	if(res>){
+		printf("si");
+	}
 }
 
 void calcular(int a){
