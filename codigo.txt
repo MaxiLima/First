@@ -10,6 +10,7 @@ int main (){
 		printf("si");
 	}
 }
+asdasdasdasd
 
 void calcular(int a){
 	asdasda;
